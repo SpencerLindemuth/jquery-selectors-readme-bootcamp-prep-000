@@ -21,6 +21,6 @@ function divSelector(){
 }
 
 function firstListItem(){
-  first = $('.pic-list li img:first-child')
+  first = $('.pic-list li:first-child img:first-child')
   return first
 }
