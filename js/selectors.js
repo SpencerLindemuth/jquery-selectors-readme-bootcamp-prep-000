@@ -19,3 +19,7 @@ function divSelector(){
   divs = $('.pics')
   return divs
 }
+
+function firstListItem(){
+  
+}
